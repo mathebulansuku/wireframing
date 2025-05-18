@@ -100,3 +100,39 @@ These are detailed and polished representations that closely resemble the final 
 - To test user interactions and visual hierarchy.
 
 ---
+
+## Popular Wireframing Tools
+
+There are a variety of tools available for creating wireframes, ranging from basic sketching apps to full-featured collaborative design platforms. Choosing the right tool depends on your project requirements, team collaboration needs, and personal preference.
+
+### Commonly Used Wireframing Tools
+
+- **Figma** – A browser-based design tool known for its collaboration features and versatile design capabilities.
+- **Balsamiq** – Great for creating low-fidelity, hand-drawn-style wireframes quickly.
+- **Adobe XD** – Part of the Adobe ecosystem; supports both wireframing and high-fidelity UI design.
+- **Sketch** – A Mac-only tool favored by many designers for its intuitive interface and plugin support.
+- **Wireframe.cc** – A minimalistic tool ideal for quick wireframing and idea sketching.
+- **Lucidchart** – More focused on flowcharts and diagrams, but also useful for basic wireframes.
+
+---
+
+## Why Figma?
+
+**Figma** is highly recommended for both beginners and experienced UI/UX designers due to its powerful and accessible feature set:
+
+### Key Features:
+
+- **Browser-Based & Cross-Platform** – No need to download anything; works on any operating system with a browser.
+- **Real-Time Collaboration** – Multiple users can work on the same file simultaneously, making it ideal for team projects.
+- **Component System** – Reuse UI elements easily to maintain consistency across designs.
+- **Version Control** – Easily track changes, comment, and revert to earlier versions.
+- **Prototyping Tools** – Link frames to simulate user flows and test interactivity.
+- **Community Resources** – Access thousands of free templates, UI kits, and plugins.
+
+### Why It’s Useful for Wireframing:
+
+- Allows you to quickly move from low-fidelity wireframes to high-fidelity prototypes in a single environment.
+- Built-in layout tools and grids simplify structuring designs clearly.
+- You can share links with clients or team members instantly—no need to export files.
+
+---
