@@ -63,12 +63,6 @@ Understanding the core components of a wireframe helps create effective and user
 
 ---
 
-## Project Overview
-
-This repository explores the fundamentals of wireframing, key tools like Figma, and how to transition from low-fidelity wireframes to high-fidelity prototypes. It also documents real-world case studies to demonstrate the practical impact of effective wireframing.
-
----
-
 ## Types of Wireframes
 
 Wireframes vary in fidelity depending on the stage of the design process and the level of detail required. The two main types are:
